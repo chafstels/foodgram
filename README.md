@@ -15,7 +15,7 @@
 
 1. Клонируйте репозиторий проекта с GitHub:
 ```
-git clone git@github.com:ingarbi/foodgram-project-react.git
+git clone https://github.com/chafstels/foodgram.git
 ```
 
 2. В терминале, перейдите в каталог: 
